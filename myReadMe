@@ -1,0 +1,6 @@
+This crud project is made using React Framework.
+React State is used to store added records.
+Also for deleting records , using State is done.
+It has made responsive by using flex.
+filtering data functionality implemented by using the for loop logic.
+No need to Database to run this project as its a frontend part only.
